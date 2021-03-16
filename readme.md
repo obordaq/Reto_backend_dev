@@ -46,3 +46,5 @@ por ejemplo:
 3- Crear un branch en GitHub con su nombre
 
 4- Subir su respuesta al branch creado
+
+### Tiempo de desarrollo: 2 horas

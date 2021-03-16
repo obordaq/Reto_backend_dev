@@ -39,12 +39,12 @@ por ejemplo:
 ```
 ### Pasos a seguir:
 
-1- Clonar el repositorio
+1- Forkear el repositorio
 
 2- Resolver el reto en su computadora de forma local
 
-3- Crear un branch en GitHub con su nombre
+3- Subir el desarrollo en la cuenta desde la que forkearon
 
-4- Subir su respuesta al branch creado
+4- Enviarnos la url del repositorio publico
 
 ### Tiempo de desarrollo: 2 horas
